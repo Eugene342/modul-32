@@ -1,0 +1,34 @@
+{
+    "country": "USA",
+    "director": "Christopher Nolan",
+    "main_characters": [
+        {
+            "actor": "Leonardo DiCaprio",
+            "character": "Dom Cobb"
+        },
+        {
+            "actor": "Marion Cotillard",
+            "character": "Mal Cobb"
+        },
+        {
+            "actor": "Joseph Gordon-Levitt",
+            "character": "Arthur"
+        },
+        {
+            "actor": "Elliot Page",
+            "character": "Ariadne"
+        },
+        {
+            "actor": "Tom Hardy",
+            "character": "Eames"
+        }
+    ],
+    "producers": [
+        "Emma Thomas",
+        "Christopher Nolan"
+    ],
+    "release_date": "2010-07-16",
+    "screenwriter": "Christopher Nolan",
+    "studio": "Warner Bros. Pictures",
+    "title": "Inception"
+}

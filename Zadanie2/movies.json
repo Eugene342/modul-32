@@ -1,0 +1,92 @@
+{
+  "Inception": {
+    "country": "USA",
+    "release_date": "2010-07-16",
+    "studio": "Warner Bros.",
+    "screenwriter": "Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas",
+    "cast": [
+      {
+        "actor": "Leonardo DiCaprio",
+        "role": "Dom Cobb"
+      },
+      {
+        "actor": "Joseph Gordon-Levitt",
+        "role": "Arthur"
+      }
+    ]
+  },
+  "The Matrix": {
+    "country": "USA",
+    "release_date": "1999-03-31",
+    "studio": "Warner Bros.",
+    "screenwriter": "Lana Wachowski, Lilly Wachowski",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "producer": "Joel Silver",
+    "cast": [
+      {
+        "actor": "Keanu Reeves",
+        "role": "Neo"
+      },
+      {
+        "actor": "Laurence Fishburne",
+        "role": "Morpheus"
+      }
+    ]
+  },
+  "Interstellar": {
+    "country": "USA",
+    "release_date": "2014-11-07",
+    "studio": "Paramount Pictures",
+    "screenwriter": "Jonathan Nolan, Christopher Nolan",
+    "director": "Christopher Nolan",
+    "producer": "Emma Thomas",
+    "cast": [
+      {
+        "actor": "Matthew McConaughey",
+        "role": "Joseph Cooper"
+      },
+      {
+        "actor": "Anne Hathaway",
+        "role": "Amelia Brand"
+      }
+    ]
+  },
+  "The Shawshank Redemption": {
+    "country": "USA",
+    "release_date": "1994-09-23",
+    "studio": "Columbia Pictures",
+    "screenwriter": "Frank Darabont",
+    "director": "Frank Darabont",
+    "producer": "Niki Marvin",
+    "cast": [
+      {
+        "actor": "Tim Robbins",
+        "role": "Andy Dufresne"
+      },
+      {
+        "actor": "Morgan Freeman",
+        "role": "Ellis 'Red' Redding"
+      }
+    ]
+  },
+  "The Godfather": {
+    "country": "USA",
+    "release_date": "1972-03-24",
+    "studio": "Paramount Pictures",
+    "screenwriter": "Mario Puzo, Francis Ford Coppola",
+    "director": "Francis Ford Coppola",
+    "producer": "Albert S. Ruddy",
+    "cast": [
+      {
+        "actor": "Marlon Brando",
+        "role": "Vito Corleone"
+      },
+      {
+        "actor": "Al Pacino",
+        "role": "Michael Corleone"
+      }
+    ]
+  }
+}
